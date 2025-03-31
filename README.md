@@ -6,7 +6,7 @@
 🧰 Favorite tools: Python, Pandas, Scikit-learn, TensorFlow, SQL, Jupyter Notebooks  
 🚀 Always learning, building, and exploring smart solutions with data  
 📫 Reach me at: [anikets7818@gmail.com](mailto:anikets7818@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/aniketsharma-ds/](https://www.linkedin.com/in/aniket-sharma-583474202/))
+🔗 [LinkedIn](https://www.linkedin.com/in/aniket-sharma-583474202/)
 
 ---
 
