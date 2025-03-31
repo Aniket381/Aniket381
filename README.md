@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aniket Sharma
 
 🎓 MSc Data Science student at King's College London  
-💡 Passionate about Machine Learning, NLP, and Blockchain Analytics  
+💡 Passionate about Data Science, Machine Learning, and Blockchain Analytics  
 📈 Currently working on: On-chain data analysis on the Solana Blockchain  
 🧰 Favorite tools: Python, Pandas, Scikit-learn, TensorFlow, SQL, Jupyter Notebooks  
 🚀 Always learning, building, and exploring smart solutions with data  
